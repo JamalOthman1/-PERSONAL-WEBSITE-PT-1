@@ -1,0 +1,20 @@
+/*reset setting */
+body {
+    margin: 0
+}
+
+* {
+    box-sizing:  border-box;
+}
+  
+header { 
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+height: 75px;
+
+border: 1px;
+}
+
+
